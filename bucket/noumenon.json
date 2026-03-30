@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/leifericf/noumenon/releases/download/v0.3.1/noum-windows-x86_64.exe",
-      "hash": "815e792c06c16c367a46c05c35f5f210238e25d943ef47df0df164d9d46c1a87"
+      "hash": "fb0999279a84e12813d4cdf1da67986981929b1449ffdeb2149550b50dbd6c6a"
     }
   },
   "bin": [["noum-windows-x86_64.exe", "noum"]],
