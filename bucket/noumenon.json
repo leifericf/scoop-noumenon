@@ -1,12 +1,12 @@
 {
-  "version": "0.7.0",
+  "version": "0.8.0",
   "description": "Datomic knowledge graph for codebase understanding",
   "homepage": "https://noumenon.leifericf.com",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/leifericf/noumenon/releases/download/v0.7.0/noum-windows-x86_64.exe",
-      "hash": "fbcc3ce0a1b7c966f51f2728386eb25fc427c53106507ce093de9200842fd1e0"
+      "url": "https://github.com/leifericf/noumenon/releases/download/v0.8.0/noum-windows-x86_64.exe",
+      "hash": "f233fe89d3202b17f4af0eddd23fd023189db1fa835ebacb53706e3c86a78164"
     }
   },
   "bin": [["noum-windows-x86_64.exe", "noum"]],
